@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Module izeg</title>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" title="EDoc">
+</head>
+<body bgcolor="white">
+<div class="navbar"><a name="#navbar_top"></a><table width="100%" border="0" cellspacing="0" cellpadding="2" summary="navigation bar"><tr><td><a href="overview-summary.html" target="overviewFrame">Overview</a></td><td><a href="http://www.erlang.org/"><img src="erlang.png" align="right" border="0" alt="erlang logo"></a></td></tr></table></div>
+<hr>
+
+<h1>Module izeg</h1>
+<ul class="index"><li><a href="#description">Description</a></li><li><a href="#index">Function Index</a></li><li><a href="#functions">Function Details</a></li></ul>Module to generate temperature and humidity event.
+
+
+<h2><a name="description">Description</a></h2><p>Module to generate temperature and humidity event</p>
+ 
+  <p>Events generated listed as followed:</p>
+ 
+  <p>Events for humidity</p>
+ 
+  <p>{interval_humidity_notify, Address, {Address, NodeID, Huminity}}</p>
+ 
+  <p>{humidity_lower, Address, {Address, NodeID, Humidity}}</p>
+ 
+  <p>{humidity_higher, Address, {Address, NodeID, Humidity}}</p>
+ 
+  <p>{humidity_too_low, Address, {Address, NodeID, Humidity}}</p>
+ 
+  <p>{humidity_too_high, Address, {Address, NodeID, Humidity}}</p>
+ 
+  <p>Events for temperature</p>
+ 
+  <p>{temperature_lower, Address, {Address, NodeID, Temp}}</p>
+ 
+  <p>{temperature_higher, Address, {Address, NodeID, Temp}}</p>
+ 
+  <p>{temperature_too_low, Address, {Address, NodeID, Temp}}</p>
+ 
+  <p>{temperature_too_high, Address, {Address, NodeID, Temp}}</p>
+ 
+  {interval_temperature_notify, Address, {Address, NodeID, Temp}}
+ 
+<h2><a name="index">Function Index</a></h2>
+<table width="100%" border="1" cellspacing="0" cellpadding="2" summary="function index"><tr><td valign="top"><a href="#add_handler-2">add_handler/2</a></td><td>Subscribe the event from data_collector.</td></tr>
+<tr><td valign="top"><a href="#add_node-1">add_node/1</a></td><td>Add a node to application.</td></tr>
+<tr><td valign="top"><a href="#delete_handler-2">delete_handler/2</a></td><td>Unsubscribe the event from data_collector.</td></tr>
+<tr><td valign="top"><a href="#delete_node-1">delete_node/1</a></td><td>Remove a node.</td></tr>
+<tr><td valign="top"><a href="#event_call-2">event_call/2</a></td><td></td></tr>
+<tr><td valign="top"><a href="#event_notify-2">event_notify/2</a></td><td></td></tr>
+<tr><td valign="top"><a href="#get_huminity_max-1">get_huminity_max/1</a></td><td>Get the maximum humidity.</td></tr>
+<tr><td valign="top"><a href="#get_huminity_min-1">get_huminity_min/1</a></td><td>Get the mininum humidity.</td></tr>
+<tr><td valign="top"><a href="#get_port_filter_list-0">get_port_filter_list/0</a></td><td></td></tr>
+<tr><td valign="top"><a href="#get_temperature_max-1">get_temperature_max/1</a></td><td>Get the maximum temperature.</td></tr>
+<tr><td valign="top"><a href="#get_temperature_min-1">get_temperature_min/1</a></td><td>Get the mininum temperature.</td></tr>
+<tr><td valign="top"><a href="#list_current_nodes-0">list_current_nodes/0</a></td><td>List all zigbee nodes used in application.</td></tr>
+<tr><td valign="top"><a href="#refresh_port_filter_list-0">refresh_port_filter_list/0</a></td><td></td></tr>
+<tr><td valign="top"><a href="#set_humidity_max-2">set_humidity_max/2</a></td><td>Set the maximum humidity.</td></tr>
+<tr><td valign="top"><a href="#set_humidity_min-2">set_humidity_min/2</a></td><td>Set the mininum humidity.</td></tr>
+<tr><td valign="top"><a href="#set_temperature_max-2">set_temperature_max/2</a></td><td>Set the maximum temperature.</td></tr>
+<tr><td valign="top"><a href="#set_temperature_min-2">set_temperature_min/2</a></td><td>Set the mininum temperature.</td></tr>
+</table>
+
+<h2><a name="functions">Function Details</a></h2>
+
+<h3 class="function"><a name="add_handler-2">add_handler/2</a></h3>
+<div class="spec">
+<p><tt>add_handler(Handler::atom(), Args::term()) -&gt; ok</tt><br></p>
+</div><p>Subscribe the event from data_collector</p>
+
+<h3 class="function"><a name="add_node-1">add_node/1</a></h3>
+<div class="spec">
+<p><tt>add_node(Address::string()) -&gt; ok</tt><br></p>
+</div><p><p>Add a node to application</p>
+ 
+  If this node is alread added,it will be ignored
+ </p>
+
+<h3 class="function"><a name="delete_handler-2">delete_handler/2</a></h3>
+<div class="spec">
+<p><tt>delete_handler(Handler::atom(), Args::term()) -&gt; ok</tt><br></p>
+</div><p>Unsubscribe the event from data_collector</p>
+
+<h3 class="function"><a name="delete_node-1">delete_node/1</a></h3>
+<div class="spec">
+<p><tt>delete_node(Address::string()) -&gt; ok</tt><br></p>
+</div><p><p>Remove a node</p>
+ 
+  If this node is not yet added,it will be ignored
+ </p>
+
+<h3 class="function"><a name="event_call-2">event_call/2</a></h3>
+<div class="spec">
+<p><tt>event_call(Handler, Request) -&gt; any()</tt></p>
+</div>
+
+<h3 class="function"><a name="event_notify-2">event_notify/2</a></h3>
+<div class="spec">
+<p><tt>event_notify(Handler, Request) -&gt; any()</tt></p>
+</div>
+
+<h3 class="function"><a name="get_huminity_max-1">get_huminity_max/1</a></h3>
+<div class="spec">
+<p><tt>get_huminity_max(Index::integer()) -&gt; integer()</tt><br></p>
+</div><p>Get the maximum humidity</p>
+
+<h3 class="function"><a name="get_huminity_min-1">get_huminity_min/1</a></h3>
+<div class="spec">
+<p><tt>get_huminity_min(Index::integer()) -&gt; integer()</tt><br></p>
+</div><p>Get the mininum humidity</p>
+
+<h3 class="function"><a name="get_port_filter_list-0">get_port_filter_list/0</a></h3>
+<div class="spec">
+<p><tt>get_port_filter_list() -&gt; any()</tt></p>
+</div>
+
+<h3 class="function"><a name="get_temperature_max-1">get_temperature_max/1</a></h3>
+<div class="spec">
+<p><tt>get_temperature_max(Index::integer()) -&gt; integer()</tt><br></p>
+</div><p>Get the maximum temperature</p>
+
+<h3 class="function"><a name="get_temperature_min-1">get_temperature_min/1</a></h3>
+<div class="spec">
+<p><tt>get_temperature_min(Index::integer()) -&gt; integer()</tt><br></p>
+</div><p>Get the mininum temperature</p>
+
+<h3 class="function"><a name="list_current_nodes-0">list_current_nodes/0</a></h3>
+<div class="spec">
+<p><tt>list_current_nodes() -&gt; ok</tt><br></p>
+</div><p>List all zigbee nodes used in application</p>
+
+<h3 class="function"><a name="refresh_port_filter_list-0">refresh_port_filter_list/0</a></h3>
+<div class="spec">
+<p><tt>refresh_port_filter_list() -&gt; any()</tt></p>
+</div>
+
+<h3 class="function"><a name="set_humidity_max-2">set_humidity_max/2</a></h3>
+<div class="spec">
+<p><tt>set_humidity_max(Index::integer(), Value::integer()) -&gt; ok</tt><br></p>
+</div><p>Set the maximum humidity</p>
+
+<h3 class="function"><a name="set_humidity_min-2">set_humidity_min/2</a></h3>
+<div class="spec">
+<p><tt>set_humidity_min(Index::integer(), Value::integer()) -&gt; ok</tt><br></p>
+</div><p>Set the mininum humidity</p>
+
+<h3 class="function"><a name="set_temperature_max-2">set_temperature_max/2</a></h3>
+<div class="spec">
+<p><tt>set_temperature_max(Index::integer(), Value::integer()) -&gt; ok</tt><br></p>
+</div><p>Set the maximum temperature</p>
+
+<h3 class="function"><a name="set_temperature_min-2">set_temperature_min/2</a></h3>
+<div class="spec">
+<p><tt>set_temperature_min(Index::integer(), Value::integer()) -&gt; ok</tt><br></p>
+</div><p>Set the mininum temperature</p>
+<hr>
+
+<div class="navbar"><a name="#navbar_bottom"></a><table width="100%" border="0" cellspacing="0" cellpadding="2" summary="navigation bar"><tr><td><a href="overview-summary.html" target="overviewFrame">Overview</a></td><td><a href="http://www.erlang.org/"><img src="erlang.png" align="right" border="0" alt="erlang logo"></a></td></tr></table></div>
+<p><i>Generated by EDoc, Oct 13 2012, 15:41:44.</i></p>
+</body>
+</html>

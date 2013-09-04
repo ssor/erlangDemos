@@ -1,0 +1,43 @@
+%config.dat
+ {dc_config, [{1455}, {1456}]}.
+ {reg_config,
+ 	[
+ 		{sensor_port_filter,[1455, 1456, 1457]},
+ 		{default_lease_time, 1800}
+ 	]}.
+ {mt_config,
+ 	[
+ 		{"192.168.57.86", 5000, 1455},
+ 		% {"192.168.1.109", 5000, 1455},
+ 		{"192.168.1.100", 5000, 1455},
+ 		{"192.168.1.101", 5001, 1455}
+ 	]}.
+ {icreg_config,
+ 	[
+ 		{default_lease_time, 5},
+ 		{default_check_time, 15}
+ 	]}.
+  {zeg_config,
+ 	[
+ 		{sensor_port_filter,[1455, 1456]},
+ 		{default_lease_time, 1800}
+ 	]}.
+   {izeg_config,
+ 	[
+ 		{sensor_port_filter,[1455, 1456]},
+ 		{default_lease_time, 1800},
+ 		{default_huminity_min, 55},
+ 		{default_huminity_max, 95},
+ 		{default_temperature_max, 45},
+ 		{default_temperature_min, 25}
+ 	]}.
+ 		%{"192.168.1.201", 5002, 1455},
+  {ut_config,
+ 	[
+ 		{"118.202.124.121", 5001, 5001},
+ 		{"118.202.124.121", 5002, 5002}
+ 	]}.
+ {broadcast_config,
+ [
+ 	{broadaddr, {192,168,1,255}}
+ ]}.

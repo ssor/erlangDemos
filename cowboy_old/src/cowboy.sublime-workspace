@@ -1,0 +1,1560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sta",
+				"StateReturn"
+			],
+			[
+				"St",
+				"State"
+			],
+			[
+				"te2",
+				"test2"
+			],
+			[
+				"La",
+				"LastTemperature"
+			],
+			[
+				"Lat",
+				"LastTemperature"
+			],
+			[
+				"ini",
+				"infinity"
+			],
+			[
+				"la",
+				"last_temperature"
+			],
+			[
+				"Ev",
+				"EventOfHuminity"
+			],
+			[
+				"H",
+				"Huminity"
+			],
+			[
+				"tem",
+				"temperature"
+			],
+			[
+				"L",
+				"LastHuminity"
+			],
+			[
+				"las",
+				"last_huminity"
+			],
+			[
+				"li",
+				"list_to_integer"
+			],
+			[
+				"com",
+				"CommandSub"
+			],
+			[
+				"por",
+				"port_list"
+			],
+			[
+				"reg",
+				"reg_port_mng"
+			],
+			[
+				"ge",
+				"get_new_tag_unclear"
+			],
+			[
+				"tim",
+				"time_left"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"Ta",
+				"Tag4"
+			],
+			[
+				"Li",
+				"List"
+			],
+			[
+				"Ne",
+				"NewTagInfo2"
+			],
+			[
+				"ta",
+				"tags_temp_ets"
+			],
+			[
+				"New",
+				"NewTagInfo"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"LEAT",
+				"DEFAULT_LEASE_TIME"
+			],
+			[
+				"Et",
+				"EtsTemp"
+			],
+			[
+				"pa",
+				"parse_command"
+			],
+			[
+				"bin",
+				"binary_to_list"
+			],
+			[
+				"B",
+				"Bin1"
+			],
+			[
+				"Bi",
+				"Bin1"
+			],
+			[
+				"B2",
+				"Bin2"
+			],
+			[
+				"Us",
+				"UserPort"
+			],
+			[
+				"S",
+				"Socket"
+			],
+			[
+				"udp",
+				"upd_port"
+			],
+			[
+				"US",
+				"UserList"
+			],
+			[
+				"U",
+				"UserPort"
+			],
+			[
+				"Ra",
+				"RawArgList"
+			],
+			[
+				"start",
+				"start_child"
+			],
+			[
+				"h",
+				"handle_cast"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"Tim",
+				"TimeLeft"
+			],
+			[
+				"v",
+				"Value"
+			],
+			[
+				"Statim",
+				"StartTime"
+			],
+			[
+				"ex",
+				"export"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cowboy_app.erl",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy.erl",
+			"settings":
+			{
+				"buffer_size": 5185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_sup.erl",
+			"settings":
+			{
+				"buffer_size": 1508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_listener_sup.erl",
+			"settings":
+			{
+				"buffer_size": 1945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_listener.erl",
+			"settings":
+			{
+				"buffer_size": 8579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_clock.erl",
+			"settings":
+			{
+				"buffer_size": 9274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_multipart.erl",
+			"settings":
+			{
+				"buffer_size": 9175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_protocol.erl",
+			"settings":
+			{
+				"buffer_size": 2832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_requests_sup.erl",
+			"settings":
+			{
+				"buffer_size": 1682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_acceptors_sup.erl",
+			"settings":
+			{
+				"buffer_size": 1934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_acceptor.erl",
+			"settings":
+			{
+				"buffer_size": 2168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_tcp_transport.erl",
+			"settings":
+			{
+				"buffer_size": 4219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_protocol.erl",
+			"settings":
+			{
+				"buffer_size": 20571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_ssl_transport.erl",
+			"settings":
+			{
+				"buffer_size": 6302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy.app.src",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_bstr.erl",
+			"settings":
+			{
+				"buffer_size": 2697,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_client.erl",
+			"settings":
+			{
+				"buffer_size": 8663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_cookies.erl",
+			"settings":
+			{
+				"buffer_size": 11806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_dispatcher.erl",
+			"settings":
+			{
+				"buffer_size": 12147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http.erl",
+			"settings":
+			{
+				"buffer_size": 34898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "http.hrl",
+			"settings":
+			{
+				"buffer_size": 2720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_handler.erl",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 27 files for \"204\"\n\nD:\\programs\\erlang\\cowboy\\src\\cowboy_http_protocol.erl:\n  423  	ok;\n  424  %% No response has been sent but everything apparently went fine.\n  425: %% Reply with 204 No Content to indicate this.\n  426  ensure_response(Req=#http_req{resp_state=waiting}) ->\n  427: 	_ = cowboy_http_req:reply(204, [], [], Req),\n  428  	ok;\n  429  %% Terminate the chunked body for HTTP/1.1 only.\n\nD:\\programs\\erlang\\cowboy\\src\\cowboy_http_req.erl:\n  900  status(202) -> <<\"202 Accepted\">>;\n  901  status(203) -> <<\"203 Non-Authoritative Information\">>;\n  902: status(204) -> <<\"204 No Content\">>;\n  903  status(205) -> <<\"205 Reset Content\">>;\n  904  status(206) -> <<\"206 Partial Content\">>;\n\nD:\\programs\\erlang\\cowboy\\src\\cowboy_http_rest.erl:\n  765  	case cowboy_http_req:has_resp_body(Req) of\n  766  		true -> multiple_choices(Req, State);\n  767: 		false -> respond(Req, State, 204)\n  768  	end.\n  769  \n\nD:\\programs\\erlang\\cowboy\\src\\cowboy_multipart.erl:\n  120  	parse_headers(Rest, Pattern);\n  121  parse_boundary_crlf(Bin, Pattern) ->\n  122: 	% Unspecified behaviour here: RFC 2046 doesn't say what to do when LWSP is\n  123  	% not followed directly by a new line. In this implementation it is\n  124  	% considered part of the boundary so EOL needs to be searched again.\n\n6 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "cowboy_http_req.erl",
+			"settings":
+			{
+				"buffer_size": 38953,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_rest.erl",
+			"settings":
+			{
+				"buffer_size": 34111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_static.erl",
+			"settings":
+			{
+				"buffer_size": 20162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_websocket.erl",
+			"settings":
+			{
+				"buffer_size": 26947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cowboy_http_websocket_handler.erl",
+			"settings":
+			{
+				"buffer_size": 2943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 322.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/programs/erlang/zigbee_event_generator/src/reg_generator.erl",
+		"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project",
+		"/D/programs/erlang/rfid_event_generator/src/gen_event.erl",
+		"/F/Program Files (x86)/erl5.9.1/lib/stdlib-1.18.1/include/ms_transform.hrl",
+		"/D/programs/erlang/rfid_event_generator/src/parser.erl",
+		"/D/programs/erlang/rfid_event_generator/ebin/rfid_event_generator.app",
+		"/D/programs/erlang/udp_transfer/src/ut_store.erl",
+		"/D/programs/erlang/udp_transfer/src/udp_transfer.erl",
+		"/D/programs/erlang/udp_transfer/src/dc_client_mng.erl",
+		"/D/programs/erlang/udp_transfer/ebin/udp_transfer.app",
+		"/D/programs/erlang/data_collector/ebin/data_collector.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl",
+		"/D/programs/erlang/data_middle_ware/ebin/data_middleware.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_store.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_app.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event.erl",
+		"/D/programs/erlang/data_middle_ware/src/data_middleware.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event_logger.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_event_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_element_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_element.erl",
+		"/D/programs/erlang/simple_cache/src/sc_app.erl",
+		"/D/programs/erlang/simple_cache/src/simple_cache.erl",
+		"/D/programs/erlang/simple_cache/src/sc_sup.erl",
+		"/D/programs/erlang/simple_cache/src/sc_store.erl",
+		"/D/programs/erlang/simple_cache/src/sc_event_logger.erl",
+		"/D/programs/erlang/simple_cache/src/sc_event.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_app.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_server.erl",
+		"/D/programs/erlang/tcp_rpc/src/tr_sup.erl",
+		"/D/programs/erlang/data_middle_ware/src/simple_cache.erl",
+		"/D/programs/erlang/data_middle_ware/src/sc_app.erl",
+		"/D/programs/erlang/gen_web_server/src/gws_server.erl",
+		"/D/programs/erlang/gen_web_server/src/gen_web_server.erl",
+		"/D/programs/erlang/gen_web_server/src/gws_connection_sup.erl",
+		"/D/programs/erlang/data_middle_ware/ebin/simple_cache.app",
+		"/D/programs/erlang/tcp_interface/src/ti_app.erl",
+		"/D/programs/erlang/tcp_interface/src/ti_sup.erl",
+		"/D/programs/erlang/tcp_interface/src/ti_server.erl",
+		"/D/programs/erlang/demos/custom_error_report.erl",
+		"/D/programs/erlang/demos/die_please.erl",
+		"/D/programs/erlang/demos/event_behaviour_template.erl",
+		"/D/programs/erlang/event_behaviour_template.erl",
+		"/D/programs/erlang/simple_cache/ebin/simple_cache.app",
+		"/D/programs/erlang/demos/tr_server.erl",
+		"/D/programs/erlang/simple_cache/src/gen_server_template.erl",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/programs/erlang/simple_cache/src/app_name_app.erl",
+		"/D/programs/erlang/tcp_rpc/ebin/tcp_rpc.app",
+		"/D/programs/erlang/tr_server.erl",
+		"/D/programs/erlang/app_name_sup.erl",
+		"/D/programs/erlang/app_name_app.erl",
+		"/D/programs/erlang/gen_server_template.erl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"Body",
+			"body",
+			"Body",
+			"body",
+			"204",
+			"reply",
+			"read_body",
+			"body",
+			"Body",
+			"body",
+			"Body",
+			"body",
+			"buffer",
+			"body",
+			"Body",
+			"body",
+			"path",
+			"has_body",
+			"body_qs",
+			"add_pid",
+			"start_request",
+			"qs_val",
+			"parse_request",
+			"URLDecode",
+			"urldecode",
+			"URLDecode",
+			"urldecode",
+			"URLDecode",
+			"urldecode",
+			"qs_val",
+			"ensure_started",
+			"reg_event_sensor",
+			"reg_event",
+			"format",
+			"reg_generator",
+			"reg_port_mng",
+			"reg_generator_sup",
+			"reg_port_mng",
+			"reg_generator",
+			"reg_generator_sup",
+			"reg_store",
+			"dc_event",
+			"Data",
+			"Packet",
+			"State",
+			"Ant5",
+			"Count5",
+			"Tag5",
+			"StartTime",
+			"Last",
+			"Ant5",
+			"Count5",
+			"Tag5",
+			"parse_command",
+			"tags_ets",
+			"binary_part",
+			"Bin1",
+			"parse",
+			"ut_transfer_sup",
+			"ut_client_mng",
+			"ut_transfer",
+			"ut_store",
+			"ut_client_mng",
+			"ut_transfer_sup",
+			"UserIP",
+			"dc_client_mng",
+			"dc_data_receiver",
+			"dc_data_receiver_sup",
+			"DataReceiverSup",
+			"dc_event",
+			"dms_event",
+			"dms_store",
+			"dms_data_receiver",
+			"dms_data_receiver_sup",
+			"handler",
+			"Handler",
+			"SERVER",
+			"dms_data_receiver_sup",
+			"sc_element_sup",
+			"),\n",
+			"sc_element",
+			"Element",
+			"Headers",
+			"_Body",
+			"handle_cast",
+			"lookup",
+			"create",
+			"sc_sup",
+			"tr_server"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 23,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cowboy_app.erl",
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								1135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cowboy.erl",
+					"settings":
+					{
+						"buffer_size": 5185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4073,
+								4073
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cowboy_sup.erl",
+					"settings":
+					{
+						"buffer_size": 1508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1499,
+								1504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cowboy_listener_sup.erl",
+					"settings":
+					{
+						"buffer_size": 1945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1429,
+								1435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "cowboy_listener.erl",
+					"settings":
+					{
+						"buffer_size": 8579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7495,
+								7495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2323.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "cowboy_clock.erl",
+					"settings":
+					{
+						"buffer_size": 9274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1545,
+								1545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "cowboy_multipart.erl",
+					"settings":
+					{
+						"buffer_size": 9175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "cowboy_protocol.erl",
+					"settings":
+					{
+						"buffer_size": 2832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1067,
+								1067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "cowboy_requests_sup.erl",
+					"settings":
+					{
+						"buffer_size": 1682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1196,
+								1204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "cowboy_acceptors_sup.erl",
+					"settings":
+					{
+						"buffer_size": 1934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								1245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "cowboy_acceptor.erl",
+					"settings":
+					{
+						"buffer_size": 2168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1496,
+								1503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "cowboy_tcp_transport.erl",
+					"settings":
+					{
+						"buffer_size": 4219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2490,
+								2490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "cowboy_http_protocol.erl",
+					"settings":
+					{
+						"buffer_size": 20571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1615,
+								1635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "cowboy_ssl_transport.erl",
+					"settings":
+					{
+						"buffer_size": 6302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "cowboy.app.src",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "cowboy_bstr.erl",
+					"settings":
+					{
+						"buffer_size": 2697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "cowboy_client.erl",
+					"settings":
+					{
+						"buffer_size": 8663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "cowboy_cookies.erl",
+					"settings":
+					{
+						"buffer_size": 11806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "cowboy_dispatcher.erl",
+					"settings":
+					{
+						"buffer_size": 12147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "cowboy_http.erl",
+					"settings":
+					{
+						"buffer_size": 34898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24639,
+								24648
+							],
+							[
+								24678,
+								24687
+							],
+							[
+								24976,
+								24985
+							],
+							[
+								25023,
+								25032
+							],
+							[
+								25071,
+								25080
+							],
+							[
+								25109,
+								25118
+							],
+							[
+								25166,
+								25175
+							],
+							[
+								25349,
+								25358
+							],
+							[
+								25424,
+								25433
+							],
+							[
+								25488,
+								25497
+							],
+							[
+								25601,
+								25610
+							],
+							[
+								25647,
+								25656
+							],
+							[
+								25696,
+								25705
+							],
+							[
+								25742,
+								25751
+							],
+							[
+								25790,
+								25799
+							],
+							[
+								25835,
+								25844
+							],
+							[
+								27792,
+								27801
+							],
+							[
+								27837,
+								27846
+							],
+							[
+								27957,
+								27966
+							],
+							[
+								28002,
+								28011
+							],
+							[
+								28019,
+								28028
+							],
+							[
+								33918,
+								33927
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1752.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "http.hrl",
+					"settings":
+					{
+						"buffer_size": 2720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2262,
+								2268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "cowboy_http_handler.erl",
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										192,
+										195
+									],
+									[
+										320,
+										323
+									],
+									[
+										578,
+										581
+									],
+									[
+										589,
+										592
+									],
+									[
+										893,
+										896
+									],
+									[
+										1096,
+										1099
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "cowboy_http_req.erl",
+					"settings":
+					{
+						"buffer_size": 38953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5844,
+								5844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "cowboy_http_rest.erl",
+					"settings":
+					{
+						"buffer_size": 34111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "cowboy_http_static.erl",
+					"settings":
+					{
+						"buffer_size": 20162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8085,
+								8085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2340.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "cowboy_http_websocket.erl",
+					"settings":
+					{
+						"buffer_size": 26947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "cowboy_http_websocket_handler.erl",
+					"settings":
+					{
+						"buffer_size": 2943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2879,
+								2898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}

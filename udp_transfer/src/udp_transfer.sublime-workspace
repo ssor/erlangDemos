@@ -1,0 +1,1096 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"list_user"
+			],
+			[
+				"json",
+				"jsonClass"
+			],
+			[
+				"Ra",
+				"RawArgList"
+			],
+			[
+				"han",
+				"handle_data"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"ha",
+				"handle_cast"
+			],
+			[
+				"start",
+				"start_child"
+			],
+			[
+				"is",
+				"is_process_alive"
+			],
+			[
+				"is_p",
+				"is_pid_alive"
+			],
+			[
+				"key",
+				"key_to_pid"
+			],
+			[
+				"ins",
+				"insert_project"
+			],
+			[
+				"Projec",
+				"ProjectTitles"
+			],
+			[
+				"pr",
+				"project_title"
+			],
+			[
+				"rec",
+				"record_info"
+			],
+			[
+				"hand",
+				"handle_event"
+			],
+			[
+				"lo",
+				"lookup"
+			],
+			[
+				"sc",
+				"sc_event"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"dele",
+				"delete_handler"
+			],
+			[
+				"sc_",
+				"sc_element"
+			],
+			[
+				"Sta",
+				"State"
+			],
+			[
+				"Time",
+				"TimeLeft"
+			],
+			[
+				"Tim",
+				"TimeLeft"
+			],
+			[
+				"star",
+				"start_link"
+			],
+			[
+				"inf",
+				"infowindow"
+			],
+			[
+				"get",
+				"get_car_with_mark_by_carid"
+			],
+			[
+				"Di",
+				"Dic"
+			],
+			[
+				"Ke",
+				"Keys"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ma",
+				"make_random_int"
+			],
+			[
+				"h",
+				"handle_info"
+			],
+			[
+				"e",
+				"error_msg"
+			],
+			[
+				"err",
+				"error_logger"
+			],
+			[
+				"add",
+				"add_event_handler"
+			],
+			[
+				"F",
+				"Fun"
+			],
+			[
+				"or",
+				"order_info"
+			],
+			[
+				"ord",
+				"order_state"
+			],
+			[
+				"deco",
+				"decoded_order_info"
+			],
+			[
+				"Or",
+				"ORDER_INDEX"
+			],
+			[
+				"pri",
+				"PRIMARY"
+			],
+			[
+				"order",
+				"order_index"
+			],
+			[
+				"chec",
+				"checkUTF8"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"res",
+				"resID"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"upl",
+				"uploadList"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"Dat",
+				"DataRow"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"che",
+				"check_current_edit_state"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"Qu",
+				"question_index"
+			],
+			[
+				"T",
+				"T_QUESTION"
+			],
+			[
+				"b",
+				"btime_out"
+			],
+			[
+				"J",
+				"Json5"
+			],
+			[
+				"O",
+				"Obj9"
+			],
+			[
+				"obj",
+				"obj1"
+			],
+			[
+				"wr",
+				"write_chunk"
+			],
+			[
+				"st",
+				"start_link"
+			],
+			[
+				"_",
+				"_StartArgs"
+			],
+			[
+				"tes",
+				"test_ets"
+			],
+			[
+				"D",
+				"Dic"
+			],
+			[
+				"L",
+				"List"
+			],
+			[
+				"Confi",
+				"ConfigList"
+			],
+			[
+				"Ta",
+				"TagIndex"
+			],
+			[
+				"I",
+				"Items"
+			],
+			[
+				"K",
+				"KeyAtom"
+			],
+			[
+				"par",
+				"parse_item"
+			],
+			[
+				"Con",
+				"ConfigList"
+			],
+			[
+				"P",
+				"Prog"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"sto",
+				"stop_all_ports"
+			],
+			[
+				"stop",
+				"stop_all"
+			],
+			[
+				"clo",
+				"close_all_port"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"t",
+				"try	Try Expression"
+			],
+			[
+				"so",
+				"stop_port"
+			],
+			[
+				"str",
+				"start_local_server"
+			],
+			[
+				"sen",
+				"send_data_via_udp"
+			],
+			[
+				"Li",
+				"List"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"US",
+				"user_id"
+			],
+			[
+				"RO",
+				"role_id"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"St",
+				"State1"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"te",
+				"test_ets"
+			],
+			[
+				"ta",
+				"TableId"
+			],
+			[
+				"bin",
+				"binary"
+			],
+			[
+				"bi",
+				"binary"
+			],
+			[
+				"R",
+				"Request"
+			],
+			[
+				"f",
+				"format"
+			],
+			[
+				"ca",
+				"caculate"
+			],
+			[
+				"op",
+				"open"
+			],
+			[
+				"c",
+				"client"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ut_transfer_sup.erl",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_sup.erl",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_store.erl",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_client_mng.erl",
+			"settings":
+			{
+				"buffer_size": 2749,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_app.erl",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_event_sensor.erl",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut_transfer.erl",
+			"settings":
+			{
+				"buffer_size": 3143,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ut.erl",
+			"settings":
+			{
+				"buffer_size": 1531,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/program/erlang/interface/src/idc.erl",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Erlang/Erlang.sublime-build",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/360云盘/代码备份/erlang/interface/src/idc.erl",
+		"/C/360云盘/代码备份/erlang/udp_transfer/src/ut_transfer.erl",
+		"/C/program/www/phpRest/Tpl/default/Welcome/welcome.html",
+		"/C/program/erlang/mochiweb/src/mochiweb.erl",
+		"/C/program/erlang/mochiweb/scripts/entities.erl",
+		"/C/program/erlang/mochiweb/scripts/new_mochiweb.erl",
+		"/C/program/www/InventoryRest/Conf/config.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/class.jsonClass.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/OrderAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/DemoAction.class.php",
+		"/C/program/erlang/demos/tcp_interface/src/ti_sup.erl",
+		"/C/program/erlang/demos/tcp_interface/src/ti_app.erl",
+		"/C/program/erlang/demos/tcp_interface/ebin/tcp_interface.app",
+		"/C/program/erlang/demos/tcp_interface/src/ti_server.erl",
+		"/C/Users/ssor/Desktop/部署/testwebsite/App_Code/BaseClass.cs",
+		"/C/项目/实验箱/资料/wsn/代码/GAINSJ-EVO温湿度、光强程序及后台/温湿度、光强程序及后台/JN-AP-1015-Zigbee-Wireless-Sensor-Network_for_Snap_J-V3-光传感/Source/WSN_Coordinator.c",
+		"/C/program/erlang/demos/gen_web_server/ebin/gen_web_server.app",
+		"/C/program/erlang/demos/simple_cache/src/sc_app.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_sup.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_element_sup.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_element.erl",
+		"/C/program/erlang/demos/unit_demo/create_tables.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_store.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_event.erl",
+		"/C/program/erlang/demos/simple_cache/src/sc_event_logger.erl",
+		"/C/program/erlang/demos/simple_cache/src/simple_cache.erl",
+		"/C/program/erlang/demos/simple_cache/ebin/simple_cache.app",
+		"/C/program/erlang/demos/otp_demo_no_alarm/sellarea_app.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/sellarea.app",
+		"/C/program/erlang/demos/otp_demo_no_alarm/area_server.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/sellarea_supervisor.erl",
+		"/C/program/erlang/simple_cache/src/sc_sup.erl",
+		"/C/program/erlang/simple_cache/src/sc_app.erl",
+		"/C/program/erlang/simple_cache/src/sc_element.erl",
+		"/C/program/erlang/erlware-Erlang-and-OTP-in-Action-Source/tcp_rpc/lib/tcp_rpc/src/tr_server.erl",
+		"/C/program/www/ExamOnLine/public/css/common.css",
+		"/C/program/www/ExamOnLine/mapgis/cars_moni2.aspx",
+		"/C/program/www/phpRest/Tpl/default/CarManagement/index.html",
+		"/C/program/www/ExamOnLine/mapgis/cars_moni3.aspx",
+		"/C/Users/ssor/Documents/IISExpress/config/applicationhost.config",
+		"/C/Program Files/IIS Express/config/administration.config",
+		"/C/program/www/phpRest/Lib/Action/IndexAction.class.php",
+		"/C/program/www/phpRest/Lib/Action/CarMonitorGetAction.class.php",
+		"/C/program/www/dazong/Lib/Action/CarMonitorGetAction.class.php",
+		"/C/program/erlang/erlware-Erlang-and-OTP-in-Action-Source/chapter_01/pingpong.erl",
+		"/C/program/www/dazong/index.php",
+		"/C/program/www/dazong/Conf/config.php",
+		"/C/program/www/LogitechBase/Conf/config.php",
+		"/C/program/www/LogitechBase/Lib/Action/LogisTechBase/CarMonitorGetAction.class.php",
+		"/C/program/www/dazong/Conf/LogisTechBase/config.php",
+		"/C/program/csharp/WebGisRestfulService/WebGisRestfulService/restInvoke.html",
+		"/C/program/csharp/WebGisRestfulService/WebGisRestfulService/SvcFiles/GetPointsRestful.svc",
+		"/C/program/www/ExamOnLine/gmap.html",
+		"/C/program/www/phpRest/Tpl/default/Monitor/startMnting.html",
+		"/C/program/www/ExamOnLine/gmap - 副本.html",
+		"/C/program/erlang/server1.erl",
+		"/C/program/erlang/name_server.erl",
+		"/C/program/erlang/myapp/src/myapp_app.erl",
+		"/C/program/erlang/myapp/src/myapp_sup.erl",
+		"/C/program/erlang/mochiweb/src/mochiweb_http.erl",
+		"/C/program/erlang/mochiweb/src/mochiweb_request.erl",
+		"/C/program/erlang/udp_transmit_server.erl",
+		"/C/program/www/phpRest/Lib/Action/class.CarInfo.php",
+		"/C/program/erlang/demos/comm_rest_service/src/myapp_sup.erl",
+		"/C/program/erlang/demos/comm_rest_service/src/myapp_web.erl",
+		"/C/program/erlang/path_parser.erl",
+		"/C/Users/ssor/Desktop/gmap.html",
+		"/C/program/www/phpRest/Tpl/default/CarManagement/editCar.html",
+		"/C/program/erlang/mochiweb/src/internal.hrl",
+		"/C/program/erlang/mochiweb/src/mochiweb_headers.erl",
+		"/C/program/erlang/mochiweb/src/mochifmt_std.erl",
+		"/C/program/erlang/mochiweb/src/mochifmt_records.erl",
+		"/C/program/erlang/myapp/src/myapp_deps.erl",
+		"/C/program/erlang/inets_demo.erl",
+		"/C/program/erlang/mochiweb/ebin/mochiweb.app",
+		"/C/program/erlang/myapp/src/myapp_web.erl",
+		"/C/program/erlang/mochiweb/src/mochiweb_html.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/event_handler.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/lib_primes.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/sellaprime_app.erl",
+		"/C/program/erlang/demos/otp_demo_no_alarm/sellaprime.app",
+		"/C/program/erlang/demos/otp_demo/motor_controller.erl",
+		"/C/program/erlang/demos/otp_demo/prime_server.erl",
+		"/C/program/erlang/demos/otp_demo/sellaprime_app.erl",
+		"/C/program/erlang/demos/otp_demo/sellaprime.app",
+		"/C/program/erlang/demos/otp_demo/area_server.erl",
+		"/C/program/erlang/demos/otp_demo/event_handler.erl",
+		"/C/program/erlang/demos/otp_demo/sellaprime_supervisor.erl",
+		"/C/program/erlang/demos/otp_demo/my_alarm_handler.erl",
+		"/C/program/erlang/demos/otp_demo/lib_primes.erl",
+		"/C/program/erlang/demos/otp_demo/elog3.config",
+		"/C/program/www/phpRest/Lib/Action/CarMonitorPostAction.class.php",
+		"/C/program/www/Lib/Action/Home/WelcomeAction.class.php",
+		"/C/program/www/phpRest/Lib/Action/MonitorAction.class.php",
+		"/C/program/www/BS代码集合/11/ExamOnLine/weituofang/Tleft.htm",
+		"/D/sql.sql",
+		"/C/program/www/phpRest/carMonitorSql.sql",
+		"/C/Users/ssor/Desktop/22222.sql",
+		"/C/program/www/phpRest/Lib/Action/CarManagementRestAction.class.php",
+		"/C/program/www/phpRest/Lib/Action/CarManagementAction.class.php",
+		"/C/program/www/phpRest/Lib/Action/OrderRestAction.class.php",
+		"/C/Users/ssor/Desktop/大宗页面设计/信息发布/信息发布-1-物流服务商-车源.html",
+		"/C/program/www/phpRest/Lib/Action/RestAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/InventoryAction.class.php",
+		"/C/program/www/Lib/Action/Admin/IndexAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/LED/ledAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/ResSync/resourceSyncAction.class.php",
+		"/C/program/www/phpRest/web.config",
+		"/C/Users/ssor/Desktop/短信二次开发数据库接口/短信二次开发数据库接口/手机短信二次开发接口程序/SET.INI",
+		"/C/program/www/InventoryRest/Lib/Action/ResSyc/resourceSyncAction.class.php",
+		"/C/portableProgram/php/php.ini",
+		"/C/program/www/Examples/File/Lib/Action/IndexAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/LED/class.CommandInfo.php",
+		"/C/Users/ssor/Desktop/phpinfo.php",
+		"/C/program/www/InventoryRest/Conf/ResSync/config.php",
+		"/C/program/www/InventoryRest/Lib/Action/RFIDReader/CommunicationAction.class.php",
+		"/C/program/www/Lib/Action/Admin/DataImportAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/LED/CommandInfoAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/LED/zigbeeAction.class.php",
+		"/C/program/www/InventoryRest/Conf/ResSyc/config.php",
+		"/C/program/www/configTest/Lib/Action/resourceSyncAction.class.php",
+		"/C/program/www/Examples/File/Lib/ORG/UploadFile.class.php",
+		"/C/program/www/Examples/Validate/Lib/Action/IndexAction.class.php",
+		"/C/program/www/configTest/Conf/config.php",
+		"/C/program/www/ThinkPHP/Lib/ORG/Util/Image.class.php",
+		"/C/program/www/configTest/Lib/Action/group1/resourceSyncAction.class.php",
+		"/C/program/www/Tpl/default/Admin/Index/top.html",
+		"/C/项目/实验箱/projects/智能货架/IntelligentCarbinet_new/IntelligentCarbinet/bin/Debug/config.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\program\\www\\ThinkPHP",
+			"C:\\program\\erlang\\mochiweb\\src,C:\\program\\erlang\\myapp\\src",
+			"C:\\program\\erlang\\mochiweb\\src",
+			"C:\\Program Files\\erl5.8.5\\doc"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dc_config",
+			"d:/programs",
+			"Quantity",
+			"quantity",
+			"ProductName",
+			"productName",
+			"number",
+			"handle_call",
+			"call",
+			"attachSecretMessage",
+			"get_car_with_mark_by_carid",
+			"attachSecretMessage",
+			"carWithMark",
+			"attachSecretMessage",
+			"carid",
+			"attachSecretMessage",
+			"requestRest_getPoses",
+			"carWithMarkArray",
+			"cars",
+			"carWithMarkArray",
+			"requestRest_getPoses",
+			"getAddressComponentsHtml",
+			"ajaxGetRequestComplete",
+			"Key_value_list",
+			"Method",
+			"method",
+			"Method",
+			"method",
+			"Method",
+			"timer",
+			"menu8",
+			"decoded_order_link",
+			"order_link",
+			"decoded_car",
+			"res",
+			"logined",
+			"shangh",
+			"path",
+			"water",
+			"im",
+			"output",
+			"file_path",
+			"($",
+			"daemon",
+			"apache",
+			"Apache",
+			"apache",
+			"Apache",
+			"apache",
+			"Apache",
+			"apache",
+			"daemon",
+			"apache",
+			"~runtime",
+			"st",
+			"sqlUpdate_updateQuestion",
+			"name",
+			"refreshQuestionInfo",
+			"sqlInsert_addQuestion",
+			"img",
+			"get_command_info_comet",
+			"O1",
+			"running",
+			"{{port}}",
+			"shutdown",
+			"{{appid}",
+			"{{appid}}",
+			"invalid_name",
+			"{{appid}}",
+			"appid",
+			"{{appid}}",
+			"{appid}}",
+			"edemol",
+			"_info",
+			"_ledIP",
+			"ledIP",
+			"info",
+			"udp",
+			"start",
+			"udp_transmit_server",
+			") ->",
+			"random",
+			"uniform",
+			");",
+			"),",
+			",",
+			"),",
+			"unsigned",
+			"I",
+			"i",
+			"unsigned",
+			"i",
+			"unsigned",
+			"),",
+			"unsigned",
+			"Request",
+			"Response",
+			"ets",
+			"up",
+			"Line"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			");INSERT INTO `think_node` (`id`, `name`, `title`, `status`, `remark`, `sort`, `pid`, `level`, `type`, `group_id`) VALUES",
+			");INSERT INTO `think_groups` (`id`, `name`) VALUES",
+			");INSERT INTO `think_dept` (`id`, `name`) VALUES",
+			");INSERT INTO `think_category` (`id`, `name`, `title`, `remark`, `status`) VALUES",
+			");INSERT INTO `think_access` (`role_id`, `node_id`, `level`, `pid`, `module`) VALUES"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ut_transfer_sup.erl",
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ut_sup.erl",
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ut_store.erl",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ut_client_mng.erl",
+					"settings":
+					{
+						"buffer_size": 2749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ut_app.erl",
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ut_event_sensor.erl",
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1115,
+								1115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ut_transfer.erl",
+					"settings":
+					{
+						"buffer_size": 3143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2476,
+								2482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ut.erl",
+					"settings":
+					{
+						"buffer_size": 1531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/program/erlang/interface/src/idc.erl",
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Erlang/Erlang.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Carbinet/frmQuestionMngCtl.cs"
+			],
+			[
+				"data",
+				"/C/program/erlang/data.txt"
+			],
+			[
+				"sh",
+				"/C/program/erlang/shop.erl"
+			],
+			[
+				"in",
+				"/C/program/www/Lib/Action/Admin/IndexAction.class.php"
+			],
+			[
+				"se",
+				"/C/program/www/sendOrderMail.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true
+}
